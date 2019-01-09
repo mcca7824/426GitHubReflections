@@ -1,1 +1,11 @@
 Use a remote repository when working with others + on multiple workstations.
+
+Don't share until complete change is done.
+
+Forks make a new version of the rep, clones copy the rep, branches add items to the rep
+
+Have source code offline
+
+idk lol
+
+use branches for new features
