@@ -1,3 +1,13 @@
 Creates hidden .git folder for meta data
 
 Allows you to prepare files to commit. Organize version control.
+
+Ensures only one change is staged per commit
+
+Use branches when adding features or new additions while keeping a working version.
+
+Understand how each commit is related to others.
+
+Merging makes both branches come together nicely
+
+work out conflicts with people who mess up your code
