@@ -1,1 +1,3 @@
 Creates hidden .git folder for meta data
+
+Allows you to prepare files to commit. Organize version control.
